@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*3Psu7nDr2LvhWH4R6-Tqeg.jpeg)
+
 This project demonstrates a complete machine learning workflow for predicting house prices, from initial research and exploration to a production-ready deployment package. Using the [Kaggle House Prices dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data), the model predicts sale prices based on various housing attributes.
 
 ## Key Features
